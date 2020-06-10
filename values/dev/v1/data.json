@@ -1,0 +1,6 @@
+{
+    "AllowedWriterRoles": [
+      "reader",
+      "writer"
+    ]
+}
