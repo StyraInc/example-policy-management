@@ -1,6 +1,6 @@
 package rules
 
-env := "prod"
+env := data.dataset.env
 values := data.global.values[env].v1
 
 main = x {
